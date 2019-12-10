@@ -10,15 +10,17 @@ Input data sets are often incomplete, i.e., some attribute values are missing. T
 
 The main objective of this project is to compare global and saturated probabilistic approximations using characteristics sets in mining incomplete data. Eight different data sets with 35% missing values were used for experiments. Two different variations of missing values were used, namely, lost values and "do not care" conditions. For rule induction, we implemented the single local probabilistic approximation version of MLEM2. We implemented a rule checker system to verify the accuracy of our generated ruleset by computing the error rate. Along with the rule checker system, the k-fold cross-validation technique was implemented with a value of k as ten to validate the generated rule sets. Finally, a statistical analysis was done for all the approaches using the Friedman test.
 
+# Flow
+
+<img src="https://github.com/Pushkarfrns/EECS_891_Project/blob/master/Flow/flowchart.png">
+
 # Technical Stack
 
 Programming Language: Java 1.8  
 IDE (Integrated development environment): Eclipse (Version: Oxygent.3a)  
 Charting and Graphs: MS-Excel  
 Friedman-test: MEDCALC software
-<img src="https://github.com/Pushkarfrns/EECS_891_Project/blob/master/Flow/flowchart.png">
 
- 
 
 # References
 
