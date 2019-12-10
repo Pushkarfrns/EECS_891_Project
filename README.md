@@ -12,11 +12,11 @@ The main objective of this project is to compare global and saturated probabilis
 
 # Technical Stack
 
-Programming Language: Java 1.8
-IDE (Integrated development environment): Eclipse (Version: Oxygent.3a)
-Charting and Graphs: MS-Excel
+Programming Language: Java 1.8  
+IDE (Integrated development environment): Eclipse (Version: Oxygent.3a)  
+Charting and Graphs: MS-Excel  
 Friedman-test: MEDCALC software
-
+ 
 
 # References
 
