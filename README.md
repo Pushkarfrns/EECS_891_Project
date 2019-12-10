@@ -1,2 +1,3 @@
 # EECS_891_Project
-Repository created to store the EECS 891 final project.
+
+A Comparison of Global and Saturated Probabilistic Approximations Using Characteristic Sets in Mining Incomplete Data
