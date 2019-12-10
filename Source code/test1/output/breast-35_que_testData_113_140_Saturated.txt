@@ -1,0 +1,246 @@
+
+
+4, 33, 33
+(a5,no)  &  (a4,0-2)  &  (a9,no)  &  (a6,1.0..2.5) -> (class,no-recurrence-events)
+5, 6, 6
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a9,no)  &  (a1,50-59)  &  (a8,left_low) -> (class,no-recurrence-events)
+5, 7, 7
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,premeno)  &  (a1,40-49)  &  (a5,no) -> (class,no-recurrence-events)
+4, 28, 28
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a9,no)  &  (a4,0-2) -> (class,no-recurrence-events)
+3, 24, 24
+(a5,no)  &  (a4,0-2)  &  (a8,left_up) -> (class,no-recurrence-events)
+5, 3, 3
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,premeno)  &  (a7,left)  &  (a4,3-5) -> (class,no-recurrence-events)
+5, 6, 6
+(a9,no)  &  (a5,no)  &  (a4,0-2)  &  (a2,premeno)  &  (a8,left_low) -> (class,no-recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,right)  &  (a2,premeno)  &  (a9,no)  &  (a8,right_up) -> (class,no-recurrence-events)
+4, 6, 6
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,right)  &  (a1,50-59) -> (class,no-recurrence-events)
+3, 20, 20
+(a9,no)  &  (a5,no)  &  (a7,right) -> (class,no-recurrence-events)
+4, 4, 4
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a9,yes)  &  (a8,left_up) -> (class,no-recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,no)  &  (a4,0-2)  &  (a8,left_up)  &  (a2,lt40) -> (class,no-recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,no)  &  (a4,0-2)  &  (a2,premeno)  &  (a1,30-39) -> (class,no-recurrence-events)
+7, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a5,no)  &  (a9,yes)  &  (a1,40-49)  &  (a7,right)  &  (a4,12-14) -> (class,no-recurrence-events)
+4, 4, 4
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a8,left_low)  &  (a1,60-69) -> (class,no-recurrence-events)
+5, 1, 1
+(a9,no)  &  (a4,0-2)  &  (a7,left)  &  (a2,premeno)  &  (a3,5-9) -> (class,no-recurrence-events)
+5, 6, 6
+(a9,no)  &  (a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a4,0-2)  &  (a5,no) -> (class,no-recurrence-events)
+4, 2, 2
+(a9,no)  &  (a1,50-59)  &  (a2,ge40)  &  (a3,30-34) -> (class,no-recurrence-events)
+5, 4, 4
+(a5,no)  &  (a7,left)  &  (a6,1.0..2.5)  &  (a6,1.0..1.5)  &  (a1,60-69) -> (class,no-recurrence-events)
+5, 2, 2
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,premeno)  &  (a9,yes)  &  (a1,30-39) -> (class,no-recurrence-events)
+4, 4, 4
+(a9,no)  &  (a8,left_low)  &  (a7,left)  &  (a6,1.0..1.5) -> (class,no-recurrence-events)
+6, 2, 2
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a7,right)  &  (a1,40-49)  &  (a9,yes)  &  (a2,premeno) -> (class,no-recurrence-events)
+4, 1, 1
+(a5,no)  &  (a7,left)  &  (a3,30-34)  &  (a8,central) -> (class,no-recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a1,40-49)  &  (a7,left)  &  (a2,premeno)  &  (a8,right_low) -> (class,no-recurrence-events)
+4, 2, 2
+(a5,no)  &  (a7,left)  &  (a1,40-49)  &  (a3,20-24) -> (class,no-recurrence-events)
+5, 1, 1
+(a9,no)  &  (a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a1,40-49)  &  (a4,6-8) -> (class,no-recurrence-events)
+3, 10, 10
+(a9,no)  &  (a4,0-2)  &  (a3,10-14) -> (class,no-recurrence-events)
+4, 3, 3
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,no)  &  (a3,30-34) -> (class,no-recurrence-events)
+4, 1, 1
+(a5,no)  &  (a7,left)  &  (a3,30-34)  &  (a8,right_up) -> (class,no-recurrence-events)
+4, 3, 3
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a5,no)  &  (a3,40-44) -> (class,no-recurrence-events)
+5, 3, 3
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a9,no)  &  (a8,left_low)  &  (a3,10-14) -> (class,no-recurrence-events)
+3, 19, 19
+(a5,no)  &  (a9,no)  &  (a1,50-59) -> (class,no-recurrence-events)
+5, 3, 3
+(a7,right)  &  (a1,40-49)  &  (a2,premeno)  &  (a3,35-39)  &  (a9,yes) -> (class,no-recurrence-events)
+3, 11, 11
+(a4,0-2)  &  (a7,right)  &  (a1,40-49) -> (class,no-recurrence-events)
+5, 2, 2
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a8,left_up)  &  (a7,right)  &  (a3,25-29) -> (class,no-recurrence-events)
+4, 1, 1
+(a5,no)  &  (a4,0-2)  &  (a9,yes)  &  (a8,left_low) -> (class,no-recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a8,left_up)  &  (a1,40-49)  &  (a3,20-24) -> (class,no-recurrence-events)
+4, 1, 1
+(a5,no)  &  (a7,left)  &  (a9,yes)  &  (a3,30-34) -> (class,no-recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,left)  &  (a8,left_up)  &  (a1,40-49) -> (class,no-recurrence-events)
+3, 4, 4
+(a9,no)  &  (a8,left_up)  &  (a1,60-69) -> (class,no-recurrence-events)
+4, 3, 3
+(a8,left_low)  &  (a2,ge40)  &  (a7,left)  &  (a1,50-59) -> (class,no-recurrence-events)
+3, 4, 4
+(a2,premeno)  &  (a1,40-49)  &  (a4,3-5) -> (class,no-recurrence-events)
+3, 2, 2
+(a5,no)  &  (a7,right)  &  (a3,0-4) -> (class,no-recurrence-events)
+4, 3, 3
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a8,left_low)  &  (a3,25-29) -> (class,no-recurrence-events)
+3, 7, 7
+(a4,0-2)  &  (a9,no)  &  (a3,25-29) -> (class,no-recurrence-events)
+4, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a5,yes)  &  (a3,40-44) -> (class,no-recurrence-events)
+3, 2, 2
+(a2,ge40)  &  (a8,left_low)  &  (a3,30-34) -> (class,no-recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,ge40)  &  (a4,6-8)  &  (a3,30-34)  &  (a1,50-59) -> (class,no-recurrence-events)
+3, 1, 1
+(a5,no)  &  (a3,20-24)  &  (a1,70-79) -> (class,no-recurrence-events)
+3, 2, 2
+(a4,0-2)  &  (a7,right)  &  (a3,40-44) -> (class,no-recurrence-events)
+4, 7, 7
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,left)  &  (a8,left_low) -> (class,no-recurrence-events)
+4, 1, 1
+(a2,ge40)  &  (a8,left_low)  &  (a3,20-24)  &  (a1,50-59) -> (class,no-recurrence-events)
+2, 11, 11
+(a2,premeno)  &  (a3,20-24) -> (class,no-recurrence-events)
+5, 1, 1
+(a2,ge40)  &  (a8,left_low)  &  (a5,yes)  &  (a6,2.5..3.0)  &  (a9,no) -> (class,no-recurrence-events)
+4, 2, 2
+(a7,left)  &  (a6,1.0..2.5)  &  (a6,1.0..1.5)  &  (a3,10-14) -> (class,no-recurrence-events)
+4, 2, 2
+(a4,0-2)  &  (a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a2,lt40) -> (class,no-recurrence-events)
+3, 8, 8
+(a8,left_up)  &  (a2,ge40)  &  (a9,no) -> (class,no-recurrence-events)
+3, 1, 1
+(a7,right)  &  (a8,left_low)  &  (a1,30-39) -> (class,no-recurrence-events)
+3, 1, 1
+(a4,0-2)  &  (a3,35-39)  &  (a8,right_up) -> (class,no-recurrence-events)
+6, 1, 1
+(a7,left)  &  (a9,yes)  &  (a2,premeno)  &  (a3,25-29)  &  (a1,40-49)  &  (a8,left_up) -> (class,no-recurrence-events)
+5, 1, 1
+(a7,right)  &  (a2,ge40)  &  (a1,60-69)  &  (a6,2.5..3.0)  &  (a8,left_up) -> (class,no-recurrence-events)
+2, 7, 7
+(a8,left_low)  &  (a6,1.0..1.5) -> (class,no-recurrence-events)
+4, 2, 2
+(a5,no)  &  (a7,left)  &  (a3,35-39)  &  (a1,50-59) -> (class,no-recurrence-events)
+2, 4, 4
+(a9,yes)  &  (a3,40-44) -> (class,no-recurrence-events)
+3, 3, 3
+(a2,premeno)  &  (a5,no)  &  (a3,10-14) -> (class,no-recurrence-events)
+3, 2, 2
+(a4,0-2)  &  (a3,35-39)  &  (a7,right) -> (class,no-recurrence-events)
+2, 1, 1
+(a8,central)  &  (a3,45-49) -> (class,no-recurrence-events)
+4, 1, 1
+(a1,60-69)  &  (a8,left_low)  &  (a2,ge40)  &  (a7,right) -> (class,no-recurrence-events)
+3, 1, 1
+(a9,yes)  &  (a8,central)  &  (a3,15-19) -> (class,no-recurrence-events)
+3, 3, 3
+(a8,left_up)  &  (a3,25-29)  &  (a2,premeno) -> (class,no-recurrence-events)
+2, 12, 12
+(a9,no)  &  (a1,60-69) -> (class,no-recurrence-events)
+4, 2, 2
+(a5,no)  &  (a9,yes)  &  (a7,left)  &  (a2,premeno) -> (class,no-recurrence-events)
+3, 15, 15
+(a8,left_up)  &  (a9,no)  &  (a5,no) -> (class,no-recurrence-events)
+5, 3, 3
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,yes)  &  (a5,yes)  &  (a3,25-29) -> (class,recurrence-events)
+4, 5, 5
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,yes)  &  (a8,left_low) -> (class,recurrence-events)
+5, 6, 6
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a1,40-49)  &  (a2,premeno)  &  (a9,no) -> (class,recurrence-events)
+5, 4, 4
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a2,premeno)  &  (a1,40-49)  &  (a8,left_up) -> (class,recurrence-events)
+5, 2, 2
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,yes)  &  (a5,no)  &  (a7,left) -> (class,recurrence-events)
+6, 2, 2
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,left)  &  (a9,yes)  &  (a4,3-5)  &  (a3,20-24) -> (class,recurrence-events)
+4, 2, 2
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a2,ge40)  &  (a3,30-34) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,ge40)  &  (a8,central)  &  (a4,3-5) -> (class,recurrence-events)
+4, 6, 6
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a8,left_low)  &  (a5,yes) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a4,0-2)  &  (a8,left_up)  &  (a3,20-24)  &  (a5,yes) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,ge40)  &  (a4,0-2)  &  (a1,60-69)  &  (a7,right) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a5,no)  &  (a1,50-59)  &  (a3,35-39) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a7,right)  &  (a9,yes)  &  (a4,3-5) -> (class,recurrence-events)
+4, 2, 2
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a8,right_up)  &  (a5,yes) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a7,right)  &  (a2,ge40)  &  (a5,no)  &  (a1,60-69) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a4,0-2)  &  (a1,60-69)  &  (a8,left_up)  &  (a3,50-54) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a2,ge40)  &  (a8,central)  &  (a3,20-24) -> (class,recurrence-events)
+4, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a7,right)  &  (a4,15-17) -> (class,recurrence-events)
+6, 2, 2
+(a6,1.0..2.5)  &  (a4,0-2)  &  (a5,no)  &  (a6,1.0..1.5)  &  (a2,premeno)  &  (a7,left) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a7,left)  &  (a3,30-34)  &  (a4,6-8) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a4,0-2)  &  (a8,left_low)  &  (a3,35-39) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a4,0-2)  &  (a3,0-4)  &  (a1,30-39) -> (class,recurrence-events)
+4, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a3,25-29)  &  (a1,60-69) -> (class,recurrence-events)
+4, 2, 2
+(a7,right)  &  (a4,0-2)  &  (a3,30-34)  &  (a8,right_up) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.0..2.5)  &  (a8,left_up)  &  (a6,1.0..1.5)  &  (a7,right)  &  (a3,35-39) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a5,no)  &  (a3,50-54)  &  (a8,left_low) -> (class,recurrence-events)
+4, 3, 3
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a9,yes)  &  (a1,50-59) -> (class,recurrence-events)
+7, 1, 1
+(a6,1.0..2.5)  &  (a8,left_up)  &  (a6,1.0..1.5)  &  (a9,no)  &  (a4,0-2)  &  (a5,no)  &  (a3,25-29) -> (class,recurrence-events)
+5, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a1,40-49)  &  (a3,25-29)  &  (a9,yes) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a1,40-49)  &  (a5,no)  &  (a3,25-29)  &  (a7,left) -> (class,recurrence-events)
+3, 1, 1
+(a7,right)  &  (a1,60-69)  &  (a8,central) -> (class,recurrence-events)
+3, 2, 2
+(a6,1.0..2.5)  &  (a8,left_up)  &  (a1,30-39) -> (class,recurrence-events)
+4, 1, 1
+(a9,yes)  &  (a1,40-49)  &  (a5,no)  &  (a3,30-34) -> (class,recurrence-events)
+3, 2, 2
+(a2,ge40)  &  (a8,left_low)  &  (a4,3-5) -> (class,recurrence-events)
+6, 1, 1
+(a7,right)  &  (a4,0-2)  &  (a5,no)  &  (a3,30-34)  &  (a6,1.0..1.5)  &  (a8,left_up) -> (class,recurrence-events)
+6, 1, 1
+(a6,1.5..3.0)  &  (a6,2.5..3.0)  &  (a7,right)  &  (a9,yes)  &  (a1,40-49)  &  (a2,ge40) -> (class,recurrence-events)
+4, 1, 1
+(a6,1.5..3.0)  &  (a6,1.0..2.5)  &  (a8,right_up)  &  (a1,60-69) -> (class,recurrence-events)
+3, 1, 1
+(a4,6-8)  &  (a1,50-59)  &  (a8,right_low) -> (class,recurrence-events)
+2, 4, 4
+(a5,yes)  &  (a3,20-24) -> (class,recurrence-events)
+3, 1, 1
+(a4,6-8)  &  (a7,left)  &  (a3,10-14) -> (class,recurrence-events)
+5, 1, 1
+(a7,right)  &  (a4,0-2)  &  (a1,60-69)  &  (a2,ge40)  &  (a5,no) -> (class,recurrence-events)
+5, 2, 2
+(a6,1.5..3.0)  &  (a4,0-2)  &  (a6,2.5..3.0)  &  (a8,left_low)  &  (a7,right) -> (class,recurrence-events)
+2, 1, 1
+(a4,6-8)  &  (a1,30-39) -> (class,recurrence-events)
+2, 2, 2
+(a5,yes)  &  (a4,15-17) -> (class,recurrence-events)
+3, 1, 1
+(a1,50-59)  &  (a4,6-8)  &  (a7,left) -> (class,recurrence-events)
+2, 1, 1
+(a8,left_up)  &  (a4,9-11) -> (class,recurrence-events)
+4, 3, 3
+(a6,1.0..2.5)  &  (a6,1.5..3.0)  &  (a3,20-24)  &  (a1,50-59) -> (class,recurrence-events)
+2, 8, 8
+(a5,yes)  &  (a9,no) -> (class,recurrence-events)
+3, 1, 1
+(a1,40-49)  &  (a8,left_up)  &  (a2,ge40) -> (class,recurrence-events)
