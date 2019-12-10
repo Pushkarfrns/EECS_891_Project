@@ -16,6 +16,8 @@ Programming Language: Java 1.8
 IDE (Integrated development environment): Eclipse (Version: Oxygent.3a)  
 Charting and Graphs: MS-Excel  
 Friedman-test: MEDCALC software
+<img src="https://github.com/Pushkarfrns/EECS_891_Project/blob/master/Flow/flowchart.png">
+
  
 
 # References
