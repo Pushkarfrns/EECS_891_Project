@@ -12,7 +12,7 @@ The main objective of this project is to compare global and saturated probabilis
 
 # Flow
 
-<img src="https://github.com/Pushkarfrns/EECS_891_Project/blob/master/Flow/flowchart.png">
+<img src="https://github.com/Pushkarfrns/EECS_891_Project/blob/master/Flow/flowchart.png" align="center">
 
 # Technical Stack
 
